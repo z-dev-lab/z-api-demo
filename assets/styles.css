@@ -1,0 +1,73 @@
+.house1 {
+  position: absolute;
+  top: 500px;
+  left: 715px;
+  width: 50px;
+  border: 0px red solid;
+}
+.house2 {
+  position: absolute;
+  top: 500px;
+  left: 800px;
+  width: 50px;
+  border: 0px green solid;
+}
+
+.myhouse {
+  position: absolute;
+  top: 600px;
+  left: 750px;
+  width: 50px;
+  border: 0px green solid;
+}
+
+.title {
+  position: absolute;
+  top: 15px;
+  left: 250px;
+  width: 800px;
+  border: 0px red solid;
+  z-index:999;
+  color: white;
+}
+
+.label {
+  position: absolute;
+  top: 15px;
+  right: 150px;
+  width: 150px;
+  border: 0px red solid;
+  z-index:999;
+  color: white;
+}
+
+.email {
+  position: absolute;
+  top: 40px;
+  right: 150px;
+  width: 150px;
+  border: 0px red solid;
+  z-index:999;
+  color: white;
+}
+
+
+.hide {
+height:32px;width:79px;font-size:14px;border:1px;border-style:solid;border-top-left-radius:5px;border-bottom-left-radius:5px;
+text-indent: 5px;text-align:center;color:lightgrey;
+}
+
+.show {
+height:32px;width:80px;font-size:14px;border:1px;border-style:solid;border-top-right-radius:5px;border-bottom-right-radius:5p
+x;text-indent: 5px;;text-align:center;
+}
+
+.circle {  width: 250px;
+  height: 250px;
+  line-height: 250px;
+  border-radius: 50%;
+  font-size: 15px;
+  color: #fff;
+  text-align: center;
+  background: grey;
+}
