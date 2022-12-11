@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1512, maximum-scale=1.0" />
+    <link rel="icon" href="assets/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/start-here.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap.min.css" />
+    <style>
+body {
+    margin: 0;
+}
+
+.house1 {
+  position: absolute;
+  top: 500px;
+  left: 715px;
+  width: 50px;
+  border: 0px red solid;
+}
+.house2 {
+  position: absolute;
+  top: 500px;
+  left: 800px;
+  width: 50px;
+  border: 0px green solid;
+}
+
+.myhouse {
+  position: absolute;
+  top: 600px;
+  left: 750px;
+  width: 50px;
+  border: 0px green solid;
+}
+
+.title {
+  position: absolute;
+  top: 15px;
+  left: 250px;
+  width: 800px;
+  border: 0px red solid;
+  z-index:999;
+  color: white;
+}
+
+.label {
+  position: absolute;
+  top: 15px;
+  right: 150px;
+  width: 150px;
+  border: 0px red solid;
+  z-index:999;
+  color: white;
+}
+
+.email {
+  position: absolute;
+  top: 40px;
+  right: 150px;
+  width: 150px;
+  border: 0px red solid;
+  z-index:999;
+  color: white;
+}
+
+
+.hide {
+height:32px;width:79px;font-size:14px;border:1px;border-style:solid;border-top-left-radius:5px;border-bottom-left-radius:5px;text-indent: 5px;text-align:center;color:lightgrey;
+}
+
+.show {
+height:32px;width:80px;font-size:14px;border:1px;border-style:solid;border-top-right-radius:5px;border-bottom-right-radius:5px;text-indent: 5px;;text-align:center;
+}
+
+    </style>
+  <title>Get Selling Estimates</title>
+  </head>
+  <body style="margin: 0">
+<form id="estimatesform" method="GET">
+    <input type="hidden" id="anPageName" name="page" value="start-here" />
+<h1 class="title"><input name="company-name" id="company-name" type="text" style="color:white;border-color:transparent;background-color:transparent" value="XYZ Real Estate"></h1><h5 class="label"><input name="agent-name" id="agent-name" type="text" value="Abby Green" style="color:white;border-color:transparent;background-color:transparent"></h5><h6 class="email"><input name="agent-email" id="agent-email" type="text" value="abby.green@zavvie.com" style="color:white;border-color:transparent;background-color:transparent"></h6>
+<map name="reportmap">
+  <area shape="rect" coords="700,500,750,550" alt="Buy" href="buying-options-report.php">
+  <area shape="rect" coords="750,600,800,650" alt="Buy" href="buying-options-report.php">
+  <area shape="rect" coords="800,500,850,550" alt="Sell" href="selling-options-report.php">
+</map>
+    <div class="mt-0 container-center-horizontal">
+      <div class="start-here screen">
+        <div class="rectangle-1-4yoqDR mt-0"></div>
+        <div class="frame-1216-4yoqDR mt-0">
+          <div class="frame-1215-4KMXq7">
+            <img class="frame-1215-BhFP4i mt-0" src="assets/map.png" usemap="#reportmap" /> <!--src="img/frame-1215-1@1x.png" />-->
+<div class="myhouse"><a href="#" onclick="document.getElementById('estimated-home-value').value='$1,317,400';document.getElementById('property-address').value='424 Morrison Aly, Boulder, CO';calculateCosts();"><img style="width:50px" src="assets/home.png"></a><br/>$1,317,400</div>
+<div class="house2"><a href="#" onclick="document.getElementById('estimated-home-value').value='$1,358,503';document.getElementById('property-address').value='2340 Spruce St Unit B, Boulder, CO';calculateCosts();"><img style="width:50px" src="assets/home.png"></a><br/>$1,358,503</div>
+<div class="house1"><a href="#" onclick="document.getElementById('estimated-home-value').value='$1,674,700';document.getElementById('property-address').value='1740 Spruce St, Boulder, CO';calculateCosts();"><img style="width:50px" src="assets/home.png"></a><br/>$1,674,700</div>
+          <div class="rectangle-2-BhFP4i"></div>
+          </div>
+          <div class="frame-1204-4KMXq7">
+            <img class="icon-close-TQLlxi" src="img/frame-13@1x.svg" />
+            <div class="frame-1205-TQLlxi">
+              <div class="get-selling-estimates-from-EHtMMZ avenir-heavy-normal-hunter-green-24px">
+                Get Selling Estimates from
+              </div>
+              <img class="vector-EHtMMZ" src="img/vector@2x.svg" />
+            </div>
+            <div class="frame-1203-TQLlxi">
+              <div class="frame-1192-BenfmS">
+                <div class="frame-15-KiDvJY">
+                  <div class="frame-14-pxVt9r">
+                    <div>
+                      <input name="property-address" id="property-address" class="x3475-bear-creek-dr-boulder-co-80301-FPVA8S avenir-medium-chicago-16px" type="text" value="3475 Bear Creek Dr, Boulder, CO 80301" style="border-color:transparent;background-color:transparent;width:500px;veritcal-align:top;">
+                      <br/>
+                    </div>
+                  </div>
+                  <img class="line-2-pxVt9r" src="img/line-2@1x.svg" />
+                </div>
+                
+                <div class="frame-17-KiDvJY">
+                  <div class="approx-home-value-49lLCg avenir-heavy-normal-fuscous-gray-14px">Approx. Home Value</div>
+                  <div class="filter-dropdown-menu-DqTUAf">
+                    <div class="select-B4Z0pf border-1px-delta" style="border:0">
+                      <!--<input type="text" name="homevalue" id="homevalue" class="form-control x300000-iQMMhx avenir-roman-normal-hunter-green-14px" value="$251,537">-->
+                      <input type="text" name="estimated-home-value" id="estimated-home-value" style="height:32px;width:315px;font-size:14px;border:1px;border-style:solid;border-radius:5px;text-indent: 5px;" onchange="calculateCosts();">
+                    </div>
+                  </div>
+                </div>
+                
+                
+                <div class="frame-1191-KiDvJY">
+                  <div class="frame-18-1ndPct">
+                    <div class="home-condition-49lLCg avenir-heavy-normal-fuscous-gray-14px">Home Condition</div>
+                  </div>
+                  <div class="filter-dropdown-menu-1ndPct">
+                    <div class="select-B4Z0pf border-1px-delta"  style="border:0">
+<select id="home-condition" name="home-condition" class="minimal" style="-webkit-appearance: none;height:32px;width:315px;font-size:14px;text-indent: 5px;">
+  <option value="Needs Minor Repairs">Needs Minor Repairs</option>
+  <option value="Pristine">Pristine</option>
+  <option value="Needs Major Repairs">Needs Major Repairs</option>
+</select>                    
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+                
+              <div class="frame-1201-BenfmS">
+                <div class="frame-1194-HU3Vqx">
+                  <div class="frame-1193-59TWjo"><div class="fees-TjVW9O avenir-medium-chicago-16px">Fees</div></div>
+                  <img class="line-3-59TWjo" src="img/line-2@1x.svg" />
+                </div>
+                <div class="frame-1200-HU3Vqx">
+                  <div class="frame-1197-EPvOPx">
+                    <div class="seller-agent-Uuj6uB avenir-heavy-normal-fuscous-gray-14px">Seller Agent</div>
+                    <div class="frame-1196-Uuj6uB">
+                      <div class="filter-dropdown-menu-WbESwm">
+                        <div class="select-1676xt border-1px-delta" style="border: 0">
+                      <input id="seller-agent-commission" name="seller-agent-commission" type="text" style="height:32px;width:200px;font-size:14px;border:1px;border-style:solid;border-top-left-radius:5px;border-bottom-left-radius:5px;text-indent: 5px;" onchange="calculatePercentage()">
+                        </div>
+                      </div>
+                      <div class="filter-dropdown-menu-llNAs0">
+                        <div class="select-2XBgvy border-1px-delta" style="border:0">
+                      <input id="seller-agent-percentage" name="seller-agent-percentage" value="3%" type="text" style="height:32px;width:80px;font-size:14px;border:1px;border-style:solid;border-top-right-radius:5px;border-bottom-right-radius:5px;text-indent: 5px;" onchange="calculateCosts()">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-1198-EPvOPx">
+                    <div class="buyer-agent-yiIdxo avenir-heavy-normal-fuscous-gray-14px">Buyer Agent</div>
+                    <div class="frame-1196-yiIdxo">
+                      <div class="filter-dropdown-menu-xMElyF">
+                        <div class="select-Zv9T4p border-1px-delta" style="border:0">
+                      <input id="buyer-agent-commission" name="buyer-agent-commission" type="text" style="height:32px;width:200px;font-size:14px;border:1px;border-style:solid;border-top-left-radius:5px;border-bottom-left-radius:5px;text-indent: 5px;" onchange="calculatePercentage()">
+                        </div>
+                      </div>
+                      <div class="filter-dropdown-menu-RPo5Sp">
+                        <div class="select-pEYhiK border-1px-delta" style="border:0">
+                      <input id="buyer-agent-percentage" name="buyer-agent-percentage" value="3%" type="text" style="height:32px;width:80px;font-size:14px;border:1px;border-style:solid;border-top-right-radius:5px;border-bottom-right-radius:5px;text-indent: 5px;" onchange="calculateCosts()">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-1199-EPvOPx">
+                    <div class="closing-costs-Dtc3pS avenir-heavy-normal-fuscous-gray-14px">Closing Costs</div>
+                    <div class="frame-1196-Dtc3pS">
+                      <div class="filter-dropdown-menu-bKT6NS">
+                        <div class="select-hs3knK border-1px-delta" style="border:0">
+                      <input id="closing-costs" name="closing-costs" type="text" style="height:32px;width:200px;font-size:14px;border:1px;border-style:solid;border-top-left-radius:5px;border-bottom-left-radius:5px;text-indent: 5px;" onchange="calculatePercentage()"> 
+                        </div>
+                      </div>
+                      <div class="filter-dropdown-menu-cftryo">
+                        <div class="select-59QcsX border-1px-delta" style="border:0">
+                      <input id="closing-costs-percentage" name="closing-costs-percentage" value="1%" type="text" style="height:32px;width:80px;font-size:14px;border:1px;border-style:solid;border-top-right-radius:5px;border-bottom-right-radius:5px;text-indent: 5px;" onchange="calculateCosts()">
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="frame-1202-BenfmS">
+                <div class="frame-1194-TxNx0l">
+                  <div class="frame-1193-8P7BIH">
+                    <div class="selling-solutions-UJup9l avenir-medium-chicago-16px">Selling Solutions</div>
+                  </div>
+                  <img class="line-3-8P7BIH" src="img/line-2@1x.svg" />
+                </div>
+                <div class="frame-1212-TxNx0l">
+                  <div class="frame-1206-Pum1Ne">
+                    <div class="open-market-sale-4pmJqC avenir-heavy-normal-fuscous-gray-14px">Open Market Sale</div>
+                    <div class="selling-on-the-open-4pmJqC avenir-book-normal-hunter-green-12px">
+                      Selling on the open market is applicable to all properties and will maximize the seller’s net
+                      proceeds in most cases.
+                    </div>
+                    <div class="frame-1200-4pmJqC">
+                      <div class="frame-1196-pyCxhu" style="border:0">
+                        <div class="filter-dropdown-menu-fTaF0I" style="border:0">
+                          <div class="select-jWAXRY border-1px-delta" style="border:0">
+                          <input id="hide1" type="text" class="hide" value="Hide" readonly onclick="changeSelection(this, document.getElementById('include1'), 'open-market');">
+                          </div>
+                        </div>
+                        <div class="filter-dropdown-menu-g17Ijr" style="border:0">
+                          <div class="select-PWF0Dz border-1px-delta" style="border:0">
+                            <input id="include1" type="text" class="show" value="Include" readonly onclick="changeSelection(document.getElementById('hide1'), this, 'open-market');">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-1207-Pum1Ne">
+                    <div class="modern-bridge-qIQJ9C avenir-heavy-normal-fuscous-gray-14px">Modern Bridge</div>
+                    <div class="enables-a-seller-who-qIQJ9C avenir-book-normal-hunter-green-12px">
+                      Enables a seller who is moving to first buy and move into a new home, then sell their current
+                      house.
+                    </div>
+                    <div class="toggle-qIQJ9C">
+                      <div class="frame-1196-Biw0uD">
+                        <div class="filter-dropdown-menu-DdWA6O">
+                          <div class="select-TdArcp border-1px-delta" style="border:0;">
+                          <input class="hide" type="text" id="hide2" value="Hide" readonly onclick="changeSelection(this, document.getElementById('include2'), 'modern-bridge');">
+                          </div>
+                        </div>
+                        <div class="filter-dropdown-menu-OIvSnp">
+                          <div class="select-yvbTjt border-1px-salem" style="border:0;">
+                            <input class="show" type="text"  id="include2" value="Include" readonly onclick="changeSelection(document.getElementById('hide2'), this, 'modern-bridge');">
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="frame-1208-Pum1Ne">
+                    <div class="instant-sale-AL9M1E avenir-heavy-normal-fuscous-gray-14px">Instant Sale</div>
+                    <div class="allows-a-seller-to-m-AL9M1E avenir-book-normal-hunter-green-12px">
+                      Allows a seller to move out on their own timeline with the speed and convenience of getting a cash
+                      offer.
+                    </div>
+                    <div class="frame-1201-AL9M1E">
+                      <div class="toggle-a0jlr6">
+                        <div class="frame-1196-9p91qZ">
+                          <div class="filter-dropdown-menu-HguYAs">
+                            <div class="select-7V4yb6 border-1px-delta" style="border:0;">
+                          <input type="text" class="hide" id="hide3" value="Hide" readonly onclick="changeSelection(this, document.getElementById('include3'), 'instant-sale');">
+                            </div>
+                          </div>
+                          <div class="filter-dropdown-menu-AB8PbU">
+                            <div class="select-crzDUD border-1px-salem" style="border:0;">
+                            <input type="text" class="show" id="include3" value="Include" readonly onclick="changeSelection(document.getElementById('hide3'), this, 'instant-sale');">
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="frame-1214-TxNx0l">
+                  <div class="frame-1253-if8s5f">
+
+<div class="btn-group d-flex justify-content-center" role="group" aria-label="Basic example">
+  <a href="selling-options-report.php"><button type="submit" class="btn btn-primary" onclick="document.getElementById('estimatesform').action='selling-options-report.php';">View Estimates Report</button></a>
+  &nbsp;&nbsp;
+  <a href="#" onclick="this.href='buy-estimates.html'+getFormURI(document.getElementById('estimatesform'));"><button type="button" class="btn btn-primary">Continue to explore buying solutions</button></a>
+</div>
+                    <div class="or-skip-buying-solut-enjeox avenir-medium-white-14px-2">
+                      <span class="span0-xk6YmD">or </span
+                      ><a href="#" onclick="this.href='presentation.html'+getFormURI(document.getElementById('estimatesform'));"><span class="span1-xk6YmD avenir-medium-mariner-14px"
+                        >skip buying solutions and continue building presentation</span
+                      ></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+<input type="hidden" name="instant-sale" id="instant-sale" value="on">
+<input type="hidden" name="open-market" id="open-market" value="on">
+<input type="hidden" name="modern-bridge" id="modern-bridge" value="on">
+</form>
+    <script type="text/javascript" src="assets/scripts.js"></script>
+    <script type="text/javascript">
+
+       function calculateCosts() {
+            document.getElementById('seller-agent-commission').value=Math.ceil(currencyValue(document.getElementById('estimated-home-value').value)*currencyValue(document.getElementById('seller-agent-percentage').value)*0.01);
+document.getElementById('buyer-agent-commission').value=Math.ceil(currencyValue(document.getElementById('estimated-home-value').value)*currencyValue(document.getElementById('buyer-agent-percentage').value)*0.01);
+document.getElementById('closing-costs').value=Math.ceil(currencyValue(document.getElementById('estimated-home-value').value)*currencyValue(document.getElementById('closing-costs-percentage').value)*0.01);
+       }
+       function calculatePercentage() {
+            document.getElementById('seller-agent-percentage').value=(currencyValue(document.getElementById('seller-agent-commission').value)/currencyValue(document.getElementById('estimated-home-value').value)*100).round(3);
+document.getElementById('buyer-agent-percentage').value=(currencyValue(document.getElementById('buyer-agent-commission').value)/currencyValue(document.getElementById('estimated-home-value').value)*100).round(3);
+document.getElementById('closing-costs-percentage').value=(currencyValue(document.getElementById('closing-costs').value)/currencyValue(document.getElementById('estimated-home-value').value)*100).round(3);
+       }
+       populateForm(document.getElementById("estimatesform"));
+    </script>
+  </body>
+</html>
