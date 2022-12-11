@@ -1,0 +1,1172 @@
+/* screen - start-here */
+
+.start-here {
+  background-color: transparent;
+  height: 1134px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1512px;
+}
+
+.start-here .rectangle-1-4yoqDR {
+  background-color: var(--cape-cod);
+  height: 72px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1512px;
+}
+
+.start-here .frame-1216-4yoqDR {
+  background-color: transparent;
+  height: 1062px;
+  left: 0px;
+  position: absolute;
+  top: 72px;
+  width: 1512px;
+}
+
+.start-here .frame-1215-4KMXq7 {
+  background-color: var(--black-2);
+  height: 1062px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 882px;
+}
+
+.start-here .frame-1215-BhFP4i {
+  background-color: transparent;
+  height: 1062px;
+  left: 0px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 882px;
+}
+
+.start-here .rectangle-2-BhFP4i {
+  background-color: var(--quill-gray);
+  height: 88px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 882px;
+}
+
+.start-here .frame-1204-4KMXq7 {
+  background-color: var(--white);
+  border-radius: 10px 0px 0px 10px;
+  box-shadow: 0px 1px 3px #0000001a , 0px 1px 2px #0000000f;
+  height: 1062px;
+  left: 876px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 636px;
+}
+
+.start-here .icon-close-TQLlxi {
+  background-color: transparent;
+  height: 16px;
+  left: 24px;
+  position: absolute;
+  top: 24px;
+  width: 588px;
+}
+
+.start-here .frame-1205-TQLlxi {
+  background-color: transparent;
+  height: 33px;
+  left: 24px;
+  position: absolute;
+  top: 72px;
+  width: 588px;
+}
+
+.start-here .get-selling-estimates-from-EHtMMZ {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.start-here .vector-EHtMMZ {
+  background-color: transparent;
+  height: 32px;
+  left: 308px;
+  position: absolute;
+  top: 0px;
+  width: 92px;
+}
+
+.start-here .frame-1203-TQLlxi {
+  background-color: transparent;
+  height: 886px;
+  left: 28px;
+  position: absolute;
+  top: 137px;
+  width: 584px;
+}
+
+.start-here .frame-1192-BenfmS {
+  background-color: transparent;
+  height: 194px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 580px;
+}
+
+.start-here .frame-15-KiDvJY {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 580px;
+}
+
+.start-here .frame-14-pxVt9r {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 305px;
+}
+
+.start-here .x3475-bear-creek-dr-boulder-co-80301-FPVA8S {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.start-here .line-2-pxVt9r {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 38px;
+  width: 580px;
+}
+
+.start-here .frame-17-KiDvJY {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 64px;
+  width: 314px;
+}
+
+.start-here .approx-home-value-DqTUAf {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.start-here .filter-dropdown-menu-DqTUAf {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 314px;
+}
+
+.start-here .select-B4Z0pf {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 314px;
+}
+
+.start-here .x300000-iQMMhx {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.start-here .frame-1191-KiDvJY {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 141px;
+  width: 314px;
+}
+
+.start-here .frame-18-1ndPct {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 108px;
+}
+
+.start-here .home-condition-49lLCg {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.start-here .filter-dropdown-menu-1ndPct {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 314px;
+}
+
+.start-here .select-A2S8a7 {
+  background-color: var(--white);
+  border-radius: 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 314px;
+}
+
+.start-here .needs-minor-repairs-KYcxKC {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 266px;
+}
+
+.start-here .icon-linear-KYcxKC {
+  background-color: transparent;
+  height: 20px;
+  left: 286px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 20px;
+}
+
+.start-here .frame-1201-BenfmS {
+  background-color: transparent;
+  height: 271px;
+  left: 0px;
+  position: absolute;
+  top: 226px;
+  width: 580px;
+}
+
+.start-here .frame-1194-HU3Vqx {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 580px;
+}
+
+.start-here .frame-1193-59TWjo {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 51px;
+}
+
+.start-here .fees-TjVW9O {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 7px;
+  width: auto;
+}
+
+.start-here .line-3-59TWjo {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 38px;
+  width: 580px;
+}
+
+.start-here .frame-1200-HU3Vqx {
+  background-color: transparent;
+  height: 207px;
+  left: 0px;
+  position: absolute;
+  top: 64px;
+  width: 239px;
+}
+
+.start-here .frame-1197-EPvOPx {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 239px;
+}
+
+.start-here .seller-agent-Uuj6uB {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.start-here .frame-1196-Uuj6uB {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 239px;
+}
+
+.start-here .filter-dropdown-menu-WbESwm {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.start-here .select-1676xt {
+  background-color: var(--white);
+  border-radius: 6px 0px 0px 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 160px;
+}
+
+.start-here .x9600-ahoVXN {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.start-here .filter-dropdown-menu-llNAs0 {
+  background-color: transparent;
+  height: 32px;
+  left: 159px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-2XBgvy {
+  background-color: var(--white);
+  border-radius: 0px 6px 6px 0px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .x32-9RiCNi {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.start-here .frame-1198-EPvOPx {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 77px;
+  width: 239px;
+}
+
+.start-here .buyer-agent-yiIdxo {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.start-here .frame-1196-yiIdxo {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 239px;
+}
+
+.start-here .filter-dropdown-menu-xMElyF {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.start-here .select-Zv9T4p {
+  background-color: var(--white);
+  border-radius: 6px 0px 0px 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 160px;
+}
+
+.start-here .x9600-8neXA0 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.start-here .filter-dropdown-menu-RPo5Sp {
+  background-color: transparent;
+  height: 32px;
+  left: 159px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-pEYhiK {
+  background-color: var(--white);
+  border-radius: 0px 6px 6px 0px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .x32-gUagK7 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.start-here .frame-1199-EPvOPx {
+  background-color: transparent;
+  height: 53px;
+  left: 0px;
+  position: absolute;
+  top: 154px;
+  width: 239px;
+}
+
+.start-here .closing-costs-Dtc3pS {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: -1px;
+  width: auto;
+}
+
+.start-here .frame-1196-Dtc3pS {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 239px;
+}
+
+.start-here .filter-dropdown-menu-bKT6NS {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.start-here .select-hs3knK {
+  background-color: var(--white);
+  border-radius: 6px 0px 0px 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 160px;
+}
+
+.start-here .x9600-dpd6ql {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 144px;
+}
+
+.start-here .filter-dropdown-menu-cftryo {
+  background-color: transparent;
+  height: 32px;
+  left: 159px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-59QcsX {
+  background-color: var(--white);
+  border-radius: 0px 6px 6px 0px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .x32-jVoYog {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.start-here .frame-1202-BenfmS {
+  background-color: transparent;
+  height: 357px;
+  left: 0px;
+  position: absolute;
+  top: 529px;
+  width: 584px;
+}
+
+.start-here .frame-1194-TxNx0l {
+  background-color: transparent;
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 580px;
+}
+
+.start-here .frame-1193-8P7BIH {
+  background-color: transparent;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 135px;
+}
+
+.start-here .selling-solutions-UJup9l {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 7px;
+  width: auto;
+}
+
+.start-here .line-3-8P7BIH {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  position: absolute;
+  top: 38px;
+  width: 580px;
+}
+
+.start-here .frame-1212-TxNx0l {
+  background-color: transparent;
+  height: 171px;
+  left: 0px;
+  position: absolute;
+  top: 72px;
+  width: 584px;
+}
+
+.start-here .frame-1206-Pum1Ne {
+  background-color: var(--athens-gray);
+  border-radius: 10px;
+  height: 171px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 184px;
+}
+
+.start-here .open-market-sale-4pmJqC {
+  background-color: transparent;
+  height: auto;
+  left: 32px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.start-here .selling-on-the-open-4pmJqC {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 160px;
+}
+
+.start-here .frame-1200-4pmJqC {
+  background-color: transparent;
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 127px;
+  width: 159px;
+}
+
+.start-here .frame-1196-pyCxhu {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 159px;
+}
+
+.start-here .filter-dropdown-menu-fTaF0I {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-jWAXRY {
+  background-color: var(--white);
+  border-radius: 6px 0px 0px 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .hide-W7T7ph {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.start-here .filter-dropdown-menu-g17Ijr {
+  background-color: transparent;
+  height: 32px;
+  left: 79px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-PWF0Dz {
+  background-color: var(--quill-gray-2);
+  border-radius: 0px 6px 6px 0px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .include-bvqTOJ {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.start-here .frame-1207-Pum1Ne {
+  background-color: var(--athens-gray);
+  border-radius: 10px;
+  height: 171px;
+  left: 200px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 184px;
+}
+
+.start-here .modern-bridge-qIQJ9C {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.start-here .enables-a-seller-who-qIQJ9C {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 160px;
+}
+
+.start-here .toggle-qIQJ9C {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 127px;
+  width: 159px;
+}
+
+.start-here .frame-1196-Biw0uD {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 159px;
+}
+
+.start-here .filter-dropdown-menu-DdWA6O {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-TdArcp {
+  background-color: var(--white);
+  border-radius: 6px 0px 0px 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .hide-1xE5j6 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.start-here .filter-dropdown-menu-OIvSnp {
+  background-color: transparent;
+  box-shadow: 0px 1px 3px #0000001a , 0px 1px 2px #0000000f;
+  height: 32px;
+  left: 79px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-yvbTjt {
+  background-color: var(--salem-2);
+  border-radius: 0px 6px 6px 0px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .include-2kxYMl {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.start-here .frame-1208-Pum1Ne {
+  background-color: var(--athens-gray);
+  border-radius: 10px;
+  height: 171px;
+  left: 400px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 184px;
+}
+
+.start-here .instant-sale-AL9M1E {
+  background-color: transparent;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  width: auto;
+}
+
+.start-here .allows-a-seller-to-m-AL9M1E {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 160px;
+}
+
+.start-here .frame-1201-AL9M1E {
+  background-color: transparent;
+  height: 32px;
+  left: 12px;
+  position: absolute;
+  top: 127px;
+  width: 159px;
+}
+
+.start-here .toggle-a0jlr6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 32px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 159px;
+}
+
+.start-here .frame-1196-9p91qZ {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 159px;
+}
+
+.start-here .filter-dropdown-menu-HguYAs {
+  background-color: transparent;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-7V4yb6 {
+  background-color: var(--white);
+  border-radius: 6px 0px 0px 6px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .hide-8xYrF7 {
+  background-color: transparent;
+  height: auto;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 64px;
+}
+
+.start-here .filter-dropdown-menu-AB8PbU {
+  background-color: transparent;
+  box-shadow: 0px 1px 3px #0000001a , 0px 1px 2px #0000000f;
+  height: 32px;
+  left: 79px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .select-crzDUD {
+  background-color: var(--salem-2);
+  border-radius: 0px 6px 6px 0px;
+  height: 32px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 80px;
+}
+
+.start-here .include-fxuIQL {
+  background-color: transparent;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.start-here .frame-1214-TxNx0l {
+  background-color: transparent;
+  height: 82px;
+  left: 0px;
+  position: absolute;
+  top: 275px;
+  width: 584px;
+}
+
+.start-here .frame-1253-if8s5f {
+  background-color: transparent;
+  height: 66px;
+  left: 104px;
+  position: relative;
+  top: 16px;
+  width: 376px;
+}
+
+.start-here .frame-1213-enjeox {
+  background-color: var(--azure);
+  border-radius: 6px;
+  cursor: pointer;
+  height: 35px;
+  left: 22px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+
+.start-here .continue-to-explore-buying-solutions-41Dcw4 {
+  background-color: transparent;
+  height: 19px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 7px;
+  width: auto;
+}
+
+.start-here .or-skip-buying-solut-enjeox {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: auto;
+}
+
+.start-here .span0-xk6YmD {
+  color: var(--black);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.start-here .span1-xk6YmD {
+}
