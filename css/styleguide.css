@@ -1,0 +1,193 @@
+:root { 
+  --athens-gray: #edeff3;
+  --athens-gray-2: #edf0f3;
+  --azure: #386099;
+  --black: #000000;
+  --black-2: #00000080;
+  --cape-cod: #414141;
+  --chicago: #595959;
+  --concord: #7d7d7d;
+  --delta: #a3a3a3;
+  --fuscous-gray: #545454;
+  --hunter-green: #161616;
+  --mariner: #226ad0;
+  --periwinkle: #c3d0de;
+  --periwinkle-2: #c3d1de;
+  --quill-gray: #d3d3d3;
+  --quill-gray-2: #d6d6d6;
+  --salem: #118438;
+  --salem-2: #1184380d;
+  --white: #ffffff;
+ 
+  --font-size-l: 10px;
+  --font-size-m: 8px;
+  --font-size-xl: 12px;
+  --font-size-xxl: 14px;
+  --font-size-xxxl: 16px;
+  --font-size-xxxxl: 24px;
+ 
+  --font-family-avenir-book: "Avenir-Book", Helvetica;
+  --font-family-avenir-heavy: "Avenir-Heavy", Helvetica;
+  --font-family-avenir-light: "Avenir-Light", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-avenir-regular: "Avenir-Regular", Helvetica;
+  --font-family-avenir-roman: "Avenir-Roman", Helvetica;
+  --font-family-tahoma-regular: "Tahoma-Regular", Helvetica;
+}
+.avenir-light-hunter-green-8px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.avenir-roman-normal-hunter-green-14px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-roman);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-heavy-normal-hunter-green-8px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-heavy-normal-fuscous-gray-14px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-heavy-normal-hunter-green-14px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-medium-chicago-16px {
+  color: var(--chicago);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-book-normal-hunter-green-12px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-book);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-roman-normal-delta-14px {
+  color: var(--delta);
+  font-family: var(--font-family-avenir-roman);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-roman-normal-salem-14px {
+  color: var(--salem);
+  font-family: var(--font-family-avenir-roman);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-regular-normal-hunter-green-8px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-heavy-normal-hunter-green-10px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-book-normal-chicago-10px {
+  color: var(--chicago);
+  font-family: var(--font-family-avenir-book);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-heavy-normal-hunter-green-12px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-heavy-normal-hunter-green-24px {
+  color: var(--hunter-green);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-roman-normal-concord-14px {
+  color: var(--concord);
+  font-family: var(--font-family-avenir-roman);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-medium-white-14px-2 {
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-medium-mariner-14px {
+  color: var(--mariner);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-delta {
+  border: 1px solid var(--delta);
+}
+
+.border-1px-salem {
+  border: 1px solid var(--salem);
+}
+
+.border-1px-athens-gray-2 {
+  border: 1px solid var(--athens-gray-2);
+}
+
+:root {
+}
