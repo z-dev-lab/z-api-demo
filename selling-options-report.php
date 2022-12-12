@@ -100,7 +100,7 @@ function getEstimates() {
             'first-name'=> $first_name,
             'last-name'=> $last_name,
             'email-address'=> $agent_email,
-            'company-name'=> $company_name
+            'brokerage'=> $company_name
         ],
         'selling-property'=> [
             "property-address" => $property_address,
