@@ -1,10 +1,10 @@
 # Getting Started with zavvie 
 
-A simple web application sample that leverages zavvie offer APIs to display estimates for a real estate CMA application.
+A simple web application that leverages zavvie offer APIs to display estimates for a real estate mock CMA application.
 
 ## Description
 
-This repo contains code for leveraging zavvie APIs for generating offer estimates and submitting offer requests. The project is modeled after a simple CMA application for real estate that leverages zavvie for displaying buying and selling offer estimates.
+This repo contains code for leveraging zavvie APIs for generating offer estimates and submitting offer requests. The project is modeled after a simple mock CMA application for real estate that leverages zavvie for displaying buying and selling offer estimates.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ This code uses PHP and HTML. Your application environment needs to support PHP. 
 
 ### Dependencies
 
-This application has been tested on PHP 7.3. The project contains all requred dependencies.
+This application has been tested on PHP 7.3. The project contains all required dependencies.
 
 ### Installing
 
